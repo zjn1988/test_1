@@ -17,3 +17,5 @@ while row:
    print((row[0], getCode(row[1],'gb2312'),getCode(row[2],'gb2312')))
    row = cursor.fetchone()
 #insertSql = "insert into WeiBo([UserId],[WeiBoContent],[PublishDate]) values(1,'测试','2012/2/1')".encode("utf8")
+# you guest what I have done
+# new branch
